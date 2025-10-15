@@ -3,29 +3,29 @@
     "name": "Felix Degenhardt",
     "title": "Research Scientist & Economist",
     "employer": "University of Potsdam",
-    "summary": "I am a labor economist conducting empirical research on labor market impacts of platform technologies, with focus on refugee integration and gig economy participation. I have expertise in causal inference and quasi-experimental methods. I expect to complete my Ph.D. in Economics in 2025."
+    "summary": "I am a labor economist conducting empirical research on labor market impacts of platform technologies, with focus on refugee labor market integration and gig economy participation. I have expertise in causal inference and quasi-experimental methods. I expect to complete my Ph.D. in Economics in 2025."
   },
   "work": [
     {
       "name": "University of Potsdam",
       "position": "Research Scientist",
       "location": "Potsdam, Germany",
-      "startDate": "2021-10-01",
+      "startDate": "2021",
       "endDate": "present"
     },
     {
       "name": "European School of Management and Technology",
       "position": "Teaching Assistant, MBA Business Economics",
       "location": "Berlin, Germany",
-      "startDate": "2021-01-01",
+      "startDate": "2023",
       "endDate": "present"
     },
     {
       "name": "SHARE NOW",
       "position": "Marketing & Sales Analytics Intern and Student Assistant",
       "location": "Berlin, Germany",
-      "startDate": "2019-09-01",
-      "endDate": "2020-09-01"
+      "startDate": "2019",
+      "endDate": "2020"
     }
   ],
   "education": [
@@ -33,26 +33,22 @@
       "institution": "Berlin School of Economics & University of Potsdam",
       "location": "Germany",
       "area": "Economics",
-      "studyType": "PhD",
-      "endDate": "2025",
-      "summary": "Dissertation: Essays in Empirical Labor Economics: Responding to Life-Cycle Shocks in Regulated Labor Markets. Fields: Labor Economics, Applied Econometrics"
+      "studyType": "PhD"
     },
     {
       "institution": "Humboldt University of Berlin",
       "location": "Germany",
       "area": "Economics and Management Science",
-      "studyType": "MSc",
-      "endDate": "2020"
+      "studyType": "MSc"
     },
     {
       "institution": "University of Hohenheim",
       "location": "Germany",
       "area": "Business Administration and Economics",
-      "studyType": "BSc",
-      "endDate": "2017"
+      "studyType": "BSc"
     }
   ],
-  "publications": [
+  "research": [
     {
       "name": "Is the Gig Economy a Stepping Stone for Refugees? Evidence from Administrative Data",
       "publisher": "Journal of Human Resources",
