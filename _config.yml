@@ -601,3 +601,25 @@ jsonresume:
   - languages
   - interests
   - references
+
+
+
+  
+# -----------------------------------------------------------------------------
+# Section labels mapping
+# -----------------------------------------------------------------------------
+section_labels:
+  basics: "Basics"
+  work: "Work Experience"
+  education: "Education"
+  publications: "Research"
+  projects: "Projects"
+  volunteer: "Volunteer Work"
+  awards: "Awards"
+  certificates: "Certificates"
+  skills: "Skills"
+  languages: "Languages"
+  interests: "Interests"
+  references: "References"
+  presentations: "Presentations"
+  service: "Service"
