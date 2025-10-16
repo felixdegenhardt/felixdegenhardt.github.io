@@ -31,21 +31,27 @@
   "education": [
     {
       "institution": "Berlin School of Economics & University of Potsdam",
-      "location": "Germany",
+      "location": "Berlin, Germany",
       "area": "Economics",
-      "studyType": "PhD"
+      "studyType": "PhD",
+      "endDate": "exp. 2025"
+
     },
     {
       "institution": "Humboldt University of Berlin",
-      "location": "Germany",
+      "location": "Berlin, Germany",
       "area": "Economics and Management Science",
-      "studyType": "MSc"
+      "studyType": "MSc",
+      "endDate": "2020"
+
     },
     {
       "institution": "University of Hohenheim",
-      "location": "Germany",
+      "location": "Hohenheim, Germany",
       "area": "Business Administration and Economics",
-      "studyType": "BSc"
+      "studyType": "BSc",
+      "endDate": "2017"
+
     }
   ],
   "publications": [
