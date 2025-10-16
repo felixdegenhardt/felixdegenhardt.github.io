@@ -57,13 +57,11 @@
   "publications": [
     {
       "name": "Is the Gig Economy a Stepping Stone for Refugees? Evidence from Administrative Data",
-      "publisher": "Journal of Human Resources",
       "releaseDate": "under review",
       "summary": "Co-authored with J. Nimczik"
     },
     {
       "name": "Compensating Wage Differentials and the Health Cost of Job Strain",
-      "publisher": "The Economic Journal",
       "releaseDate": "under review",
       "summary": "Co-authored with A. Ahammer & M. Caliendo"
     },
@@ -74,13 +72,6 @@
     }
   ],
   "service": [
-    {
-      "name": "Referee and Review Services",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Labour Economics"
-      ]
-    },
     {
       "name": "Professional Service",
       "icon": "fa-solid fa-hashtag",
