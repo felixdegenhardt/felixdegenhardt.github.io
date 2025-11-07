@@ -91,6 +91,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project.html";
+            },},{id: "projects-die-küchenschlacht-gender-analysis",
+          title: 'Die Küchenschlacht Gender Analysis',
+          description: "Analyzing gender patterns in German cooking show using automated NLP pipeline",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/kuechenschlacht.html";
             },},{
         id: 'social-email',
         title: 'email',
