@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Die Küchenschlacht Gender Analysis
+title: Die Küchenschlacht Analysis
 description: Analyzing gender patterns in German cooking show using automated NLP pipeline
 importance: 1
 category: research
