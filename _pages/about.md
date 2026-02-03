@@ -2,17 +2,17 @@
 layout: about
 title: About
 permalink: /
-subtitle: <strong>Research Scientist in Economics @ University of Potsdam</strong>.
+subtitle: <strong>Research Data Scientist in Economics @ University of Potsdam</strong>.
 
 profile:
   align: right
-  image: prof_pic.png
+  image: prof_pic_new.png
   image_circular: true # crops the image to make it circular
 news: false
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I'm a research scientist and economist. I study how technology changes labor markets and what drives economic integration.
+I'm a research scientist and economist. I study how technology changes labor markets, and I think about adverse effects.
 
 I use quasi-experimental methods – difference-in-differences, event studies, panel data – to answer causal questions with large administrative datasets. My toolkit is R, Python, SQL, and whatever gets the job done.
 
