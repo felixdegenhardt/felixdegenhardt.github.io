@@ -6,7 +6,7 @@ subtitle: <strong>Research Data Scientist in Economics @ University of Potsdam</
 
 profile:
   align: right
-  image: prof_pic_new.png
+  image: prof_pic_new.jpeg
   image_circular: true # crops the image to make it circular
 news: false
 selected_papers: false # includes a list of papers marked as "selected={true}"
